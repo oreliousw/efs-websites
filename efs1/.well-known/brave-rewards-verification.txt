@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: execflightservices.com
+Token: fe6f12c3590b0d6110ff8e28ef6bfd0e9c74562f315dcb11450680a71caacada
