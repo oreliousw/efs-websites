@@ -78,7 +78,7 @@ document.write('<div class="header-icon-box">');
 // INSTAG
    if (instaSH == "yes") {
 document.write('<div class="headericon">');
-document.write('<a href="https://www.instagram.com/" target="_blank"><img src="header-icons/social-instagram-'+iconcolor+'.png" width="36" height="36" alt="Connect on Instagram"></a>');
+document.write('<a href="https://www.instagram.com/dusktrader/" target="_blank"><img src="header-icons/social-instagram-'+iconcolor+'.png" width="36" height="36" alt="Connect on Instagram"></a>');
 document.write('</div>');
 }
 
