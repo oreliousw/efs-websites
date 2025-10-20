@@ -30,7 +30,7 @@ var iconcolor	= "white"	// ICON COLOR | black | white |
 
 
 
-// COPYRIGHT 2017 © Allwebco Design Corporation
+// COPYRIGHT 2017 Â© Allwebco Design Corporation
 // Unauthorized use or sale of this script is strictly prohibited by law
 
 
@@ -78,7 +78,7 @@ document.write('<div class="header-icon-box">');
 // INSTAG
    if (instaSH == "yes") {
 document.write('<div class="headericon">');
-document.write('<a href="https://execflightservices.com/pics/" target="_blank"><img src="header-icons/social-instagram-'+iconcolor+'.png" width="36" height="36" alt="Connect on Instagram"></a>');
+document.write('<a href="https://www.instagram.com/" target="_blank"><img src="header-icons/social-instagram-'+iconcolor+'.png" width="36" height="36" alt="Connect on Instagram"></a>');
 document.write('</div>');
 }
 
