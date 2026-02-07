@@ -7,7 +7,7 @@
 
 document.write('<div class="footerdiv footerheight printhide">');
 
-document.write('&copy;Copyright 2025 <a href="index.html" class="footlink">Exec Flight Services</a> ');
+document.write('&copy;Copyright 2026 <a href="index.html" class="footlink">Exec Flight Services</a> ');
 
 // document.write(' / Site Design <a href="http://execflightservices.com" target="_blank" class="footlink">EFS Design</a><br>');
 
