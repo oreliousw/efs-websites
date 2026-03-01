@@ -169,6 +169,17 @@ section h2 {
   transform: translateY(-4px);
 }
 
+.service-box ul {
+  margin: 0.5rem 0 0;
+  padding-left: 1.2rem;
+  font-size: 0.9rem;
+  color: #444;
+}
+
+.service-box ul li {
+  margin-bottom: 0.3rem;
+}
+
 /* Gallery */
 .gallery {
   display: grid;
