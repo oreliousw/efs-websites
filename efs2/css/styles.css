@@ -194,6 +194,13 @@ section h2 {
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
+/* FB Page Plugin */
+.fb-page-wrap {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+}
+
 /* Contact */
 #contact a {
   font-weight: bold;
